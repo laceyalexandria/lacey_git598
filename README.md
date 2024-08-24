@@ -1,2 +1,3 @@
 # lacey_git598
-web coding introduction repository
+## Author: Lacey_Todd
+
